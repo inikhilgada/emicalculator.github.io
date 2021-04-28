@@ -1,8 +1,9 @@
-		body,html {
+html{font-family: lato;}		
+body {
     	background-image: url(image.jpg);
     	background-size: cover;
     	background-repeat: no-repeat;
-    	font-family: 'Lato';
+    	
     	}
 		h1 {
 			font-weight: 700;
