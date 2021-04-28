@@ -1,1 +1,61 @@
+		body,html {
+    	background-image: url(image.jpg);
+    	background-size: cover;
+    	background-repeat: no-repeat;
+    	font-family: 'Lato';
+    	}
+		h1 {
+			font-weight: 700;
+			font-size: 5em;
+			color: #FCFC5F;
+		}
+		
+		input{
+  				border:none;
+  				outline:none;
+  				height:34px;
+  				bottom:14px;
+  				right:2px;
+  				border-radius:22px;
+  				width:220px;
+  				box-sizing:border-box;
+  				padding:0 18px; 
+  				color: red;
+  				font-weight: bolder;
+			}
+		.content{
+			color: white;
+			padding: 4em;
+			text-align: center;
+		}
+		hr {
+    		width: 400px;
+    		border-top: 1px solid #f8f8f8;
+    		border-bottom: 1px solid rgba(0,0,0,0.2);
+		}
+		label{
+ 		padding-right: 10px;
+ 		font-weight: bolder;
+		font-size: 15px;
+		}
+		#sp{
+		padding-right: 95px;
+		}
+		button{
+		position: absolute;
+		}
+		#sp1{
+		padding-right: 62px;
+		}
+		#sp2{
+		padding-right: 42px;
+		}
+		#sp3{
+		padding-right: 5px;
+		}
+		#sp4{
+		padding-right: 20px;
+		}
 
+		
+		
